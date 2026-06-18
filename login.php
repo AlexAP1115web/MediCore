@@ -1,4 +1,5 @@
 <?php
+// Mejora Git Flow - Feature Login: actualización del módulo de autenticación.
 include("config.php");
 require_once "security.php";
 
