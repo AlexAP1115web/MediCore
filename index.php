@@ -1,4 +1,5 @@
 <?php
+// Release v1.0 - Version estable para entrega academica 18/06/2026
 include("config.php");
 include("security.php");
 
