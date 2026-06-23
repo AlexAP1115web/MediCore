@@ -1,7 +1,7 @@
 <?php
 include("config.php");
 include("security.php");
-
+#mi nombre es josue
 verificarSesion();
 
 $id_medico = $_SESSION['medico_id'] ?? $_SESSION['medico'] ?? $_SESSION['id'] ?? 0;
