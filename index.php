@@ -3,7 +3,7 @@ include("config.php");
 include("security.php");
 #mi nombre es josue
 verificarSesion();
-
+//guardado con exito//
 $id_medico = $_SESSION['medico_id'] ?? $_SESSION['medico'] ?? $_SESSION['id'] ?? 0;
 $nombreMedico = $_SESSION['nombre_medico'] ?? "Especialista";
 
